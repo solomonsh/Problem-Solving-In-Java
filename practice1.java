@@ -16,7 +16,7 @@ public class practice1 {
         // System.out.println(v1);
 
         ArrayList<Integer> nums = new ArrayList<Integer>();
-        
+         
         nums.add(5);
         nums.add(6);
         nums.add(9);
