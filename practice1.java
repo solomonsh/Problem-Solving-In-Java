@@ -35,7 +35,10 @@ public class practice1 {
        
         System.out.println(nums.toString());
          
-
+        int[] ars = {2,1,5,6};
+        for (int i : ars){
+            System.out.println(i);
+        }
     }
 
 

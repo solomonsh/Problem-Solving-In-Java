@@ -1,2 +1,0 @@
-practice1.class
-practice1.java
